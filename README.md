@@ -5,9 +5,9 @@ The searches are designed for Gmail but the code can easily be adapted for anoth
 
 ## To run
 
-Update the config in main.py to use your personal
+Update the config in main.py to use your personal credentials and run:
 
 `python main.py`
 
-The prompt will ask you if you wish to continue with deletion.
+The prompt will ask you if you wish to continue with deletion. 
 
